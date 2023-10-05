@@ -27,9 +27,11 @@ EDA:
 2. Most important words for both subreddits using TVEC
 
 ![image.png](/10_import_crypto.png)
+
 For r/cryptocurrency, we notice that people are interested in anything that is 'new' and 'moons'. That just goes to show that most stuff in crypto are high risk and high reward opportunities. 
 
 ![image.png](/10_import_stocks.png)
+
 For r/stock, we notice that people are interested in anything that is 'trading' and 'help'. This shows that r/Stocks users are more inclined to "trading" stocks. That means making several trades a day. And 'help' could mean lots of people ask for help in this subreddit.
 
 There are 2 main functions that were used in this project. 
